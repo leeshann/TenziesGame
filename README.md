@@ -1,7 +1,10 @@
 # Tenzies game
-
 <img width="1390" alt="Screenshot 2025-02-10 at 10 43 18 AM" src="https://github.com/user-attachments/assets/39be2838-26e6-4859-acc1-e1f9c06568a1" />
 
+## Run project
+cd tenziesGame\
+npm install\
+npm run dev
 
 ## Click each die to freeze it at its current number
 <img width="1389" alt="Screenshot 2025-02-10 at 10 43 45 AM" src="https://github.com/user-attachments/assets/b8d37685-c5b5-48cc-973e-3e80fed7f8ed" />
