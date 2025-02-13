@@ -1,6 +1,9 @@
 # Tenzies game
 <img width="1390" alt="Screenshot 2025-02-10 at 10 43 18 AM" src="https://github.com/user-attachments/assets/39be2838-26e6-4859-acc1-e1f9c06568a1" />
 
+## Tech Stack  
+- **Frontend:** React, Vite, HTML, CSS  
+
 ## Run project
 cd tenziesGame\
 npm install\
